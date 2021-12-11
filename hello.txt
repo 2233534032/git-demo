@@ -1,6 +1,2 @@
 hello git this is my git study okokstudy push 
-这是我在hot-fix分支修改后的hello.txt文件
----------------------------------------
-这是测试合并冲突 master 修改的
----------------------------------------
-这是为了测试合并冲突 hot-fix 修改的
+22222222222222222222 hot-fix
